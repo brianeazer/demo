@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "menu": [
+    {
+     "name": "Veggie Taco",
+     "price": 2.50
+    },
+    {
+     "name": "Chicken Taco",
+     "price": 3.00
+    },
+    {
+     "name": "Beef Taco",
+     "price": 3.00
+    },
+    {
+     "name": "Chorizo Taco",
+     "price": 3.50
+    }
+    ]
 }
