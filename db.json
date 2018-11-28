@@ -1,20 +1,24 @@
 {
-  "menu": [
+  "order": [
     {
      "name": "Veggie Taco",
-     "price": 2.50
+     "price": 2.50,
+      "quantity": 3
     },
     {
      "name": "Chicken Taco",
-     "price": 3.00
+     "price": 3.00,
+      "quantity": 1
     },
     {
      "name": "Beef Taco",
-     "price": 3.00
+     "price": 3.00,
+      "quantity": 5
     },
     {
      "name": "Chorizo Taco",
-     "price": 3.50
+     "price": 3.50,
+      "quantity": 0
     }
     ]
 }
